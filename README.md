@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikorogodstime&label=Profile%20views&color=0e75b6&style=flat" alt="ikorogodstime" /> </p>
 
-- 🔭 I’m currently working on **Fantasy E-Commerce Website**
+- 🔭 I’m currently working on *Stock Brokage Website**
 
 - 🌱 I’m currently learning **Testing with Jest**
 
